@@ -1,0 +1,18 @@
+Code Explorer
+Google Code Search
+GrepConsole
+IdeaVIM
+JavaRushHomeWork
+Lombook Plugin
+NeovimIntellijComplete
+blue.stack.j2Smali
+com.chrisrm.idea.MaterialThemeUI
+com.denis.zaichenko.angular.2.ws.live.templates
+com.cursiveclojure.cursive
+com.mulgasoft.emacsplus
+AngularJS
+com.hasintech.intellij.angularTemplates
+org.intellij.scala
+org.jetbrains.kotlin
+org.jf.smalidea
+org.ollide.java2smali
