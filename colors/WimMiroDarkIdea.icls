@@ -57,11 +57,11 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
-    <option name="SELECTED_TEARLINE_COLOR" value="232323" />
+    <option name="SELECTED_TEARLINE_COLOR" value="73642" />
     <option name="SELECTION_BACKGROUND" value="2b36" />
     <option name="SELECTION_FOREGROUND" value="c0c0c0" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
-    <option name="TEARLINE_COLOR" value="121212" />
+    <option name="TEARLINE_COLOR" value="2b36" />
     <option name="WHITESPACES" value="303030" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>
@@ -1211,7 +1211,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="FOREGROUND" value="8a2f58" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
